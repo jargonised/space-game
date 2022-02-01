@@ -1,3 +1,3 @@
 # Space Game made in C
 
-Basically all invaders I created from simple squares.
+Basically all invaders have been created from simple squares.
